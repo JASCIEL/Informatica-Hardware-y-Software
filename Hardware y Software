@@ -1,0 +1,160 @@
+<! DOCTYPE html>
+<html>
+<head>
+<title>HARDWARE Y SOFTWARE</title>
+<style>
+body{background-color:white}
+h1 {color:maroon;}
+h2 {color:cadetblue;}
+h3{color:red;}
+p {color:black;}
+</style>
+</head>
+<img src="logo.png" alt="Geronimo Baqueiro Foster" whidth="200px" height="150px"; align="left"/> 
+<img src="logo2.jpg"  whidth="200px" height="150px"; align="right" />
+<center>
+<img src="centro.png"  whidth="300px" height="200px"/>
+</center>
+<font face="georgia">
+<font size="16">
+<h1 align="center">HARDWARE Y SOFTWARE</h1>
+</font>
+</font>
+<p align="center">
+<img src="Encabezado.jpg" alt="Hardware y Software" whidth="600px" height="200px"/>
+<p/>
+<body>
+<nav class="menu">
+<font face="arial black">
+<font size="4">
+<ul>
+<p>Indice</p>
+<li><a href="#Inicio">¿Qué es hardware y software?</a></li>
+<li><a href="#Hardware">¿Qué es el hardware?</a></li>
+<li><a href="#Software">¿Qué es el software?</a></li>
+<li><a href="#Diferencia">¿En qué se diferencian el hardware y el software?</a></li>
+<li><a href="#Video">Para entender mejor:</a></li>
+<li><a href="#Sobre nosotros">Sobre nosotros:</a></li>
+</ul>
+</font>
+</font>
+</nav>
+</body>
+<center>
+<font face="arial">
+<font size="6">
+<h2 id="Inicio"> ¿Qué es hardware y software?</h2>
+</font>
+<font size="5">
+<p align="center">Hardware es el conjunto de componentes físicos de los que está hecho el equipo<br>
+ y software es el conjunto de programas o aplicaciones, instrucciones y reglas<br> 
+informáticas que hacen posible el funcionamiento del equipo.<br>
+ </p>
+</font>
+</center>
+<font size="6">
+<center>
+<h2 id="Hardware">¿Qué es el hardware?</h2>
+</font>
+</center>
+<img src="hardware.png" alt="Hardware" whidth="400px" height="200px"; align="right" />
+<font size="5">
+<p>El hardware son todos los componentes materiales y físicos de
+un dispositivo, es decir, aquellos que se pueden ver y tocar. El monitor, el
+ ratón, la CPU, el teclado o la memoria RAM son algunos ejemplos de 
+aquellas partes que, en su conjunto, forman el hardware. Este término tiene
+ su origen etimológico en el inglés, donde “hard” significa “duro” y “ware”,
+ “cosas”, por lo que se podría definir incluso como “las partes duras de una 
+computadora”.
+ </p>
+<img src="hardware.gif" alt="Hardware" whidth="600px" height="300px"; align="left" />
+<p>EJEMPLOS DE HARDWARE:<br>
+*Placa madre.<br>
+*Cables.<br>
+*Fuente de poder.<br>
+*Memoria USB.<br>
+*Tarjeta gráfica.<br>
+*Gabinete de computadora.<br>
+*Placa de sonido.<br>
+*Disipadores de calor.<br>
+*Impresora.<br>
+*Unidad de estado sólido (SSD).<br>
+</font>
+<center>
+<font size="6">
+<h2 id="Software">¿Qué es el software?</h2>
+</font>
+</center>
+<img src="software1.jpg"  alt="Software" whidth="600px" height="300px"; align="right"" />
+<font size="5">
+<p>
+Software son programas o 
+conjunto de programas de cómputo, así como datos, procedimientos y pautas
+que permiten realizar distintas tareas en un sistema informático.<br>
+El software se clasifica en:
+</p>
+<p>Software de sistema: conjunto de programas que permiten al usuario
+ comunicarse con el sistema en sí. Son los sistemas operativos, los
+ controladores de dispositivos y los programas utilitarios para el
+mantenimiento de la computadora.
+</p>
+<p>Software de aplicación: programas diseñados para que el usuario 
+desarrolle una tarea específica, como escribir. Los procesadores de texto,
+ las hojas de cálculo, el antivirus o el reproductor de películas son algunos
+ejemplos.<br>
+</p>
+<p>Software de programación: herramientas empleadas por el informático
+ para escribir nuevos programas gracias a un lenguaje específico.
+</p>
+</font>
+<center>
+<font size="6">
+<h2 id="Diferencia">¿En qué se diferencian el hardware y el software?</h2>
+</font>
+<font size="5">
+<p>Hardware es el conjunto de componentes físicos de los que está hecho el equipo<br>
+y software es el conjunto de programas o aplicaciones, instrucciones y reglas<br>
+informáticas que hacen posible el funcionamiento del equipo.<br>
+Sin embargo en el mundo de la tecnología tanto el hardware como el software<br> 
+van de la mano, uno no puede existir sin el otro.<br> 
+</font>
+</center>
+<center>
+<font size="8">
+<h3 id="Video">Para entender mejor:</h3>
+</font>
+</center>
+<center>
+<p>
+<video widht="440" height="520" autoplay controls>
+<source src="Hardware y Software.mp4" type="video/mp4"; aling="left">
+</video>
+<div align="center">Video del usuario: "PREGUNTALE A GERA"<br>
+Sacado de la aplicación de Tik Tok<br></div>
+<p>
+<center>
+<font size="8">
+<h3 id="Sobre nosotros">Sobre nosotros:</h3>
+</font>
+</p>
+<p> SOMOS ESTUDIANTES DEL SEXTO SEMESTRE<br>
+EL SIGUINTE TRABAJO FORMA PARTE<br>
+DE LA MATERIA DE PROGRAMACIÓN<br>
+IMPARTIDA POR EL PROFESOR:<br>
+FERNANDO AMIN CUTZ PENICHE<br>
+</p>
+<font face="arial black">
+<p style="color:brown;"> LOS INTEGRANTES DE ESTE TRABAJO SON:</p>
+</font>
+<p>JASCIEL ADRIAN CERVANTES COUOH<br>
+CARLOS DANIEL CAUICH DZIB<br>
+PAOLA GABRIELA MOO GOMEZ<br>
+GABRIELA MARISOL GONZALES MARTINEZ<br>
+NATALIA GUADALUPE AKE CU<br>
+JOANA JUDITH SUNZA CERVANTES<br>
+</p>
+</font>
+</font>
+</center>
+</body>
+</html>
